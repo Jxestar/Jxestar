@@ -14,7 +14,7 @@ const Jxestar = {
     javascript;
     python;
     typescript;
-    html & css
+    html-css
  };
 } //that's all, stalkers ;)
 ```
