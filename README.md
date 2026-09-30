@@ -2,7 +2,7 @@
 const Jxestar = {
   nationality = vietnamese;
   gender = male;
-  age = under-200;
+  age = under_200;
   hobby {
     football;
     fashion;
